@@ -183,7 +183,7 @@ html {
   border-radius: 3rem;
   font-size: 1.6rem;
   cursor: pointer;
-  transition: all 3s;
+  transition: all 0.3s;
 }
 
 .banner-btn-1 {
